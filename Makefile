@@ -1,5 +1,3 @@
-##
-## EPITECH PROJECT, 2017
 ## Make-make's Makefile
 ## File description:
 ## By Ndr
